@@ -126,6 +126,11 @@ Le score est calculé sur 100 points, combinant :
 
 Ce projet est développé dans le cadre du groupe **Les Bullionaires** 🏆
 
+## 👥 Auteur & Groupe
+
+- **Groupe** : Les Bullionaires
+- **Auteur principal (Backend & Analyse)** : [Stéphane Nathanaël MARE](https://github.com/Nathan06-hub) — marenathanael06@gmail.com
+
 ## 📞 Support
 
-Pour toute question ou problème, contactez l'équipe de développement.
+Pour toute question ou problème : **marenathanael06@gmail.com**
